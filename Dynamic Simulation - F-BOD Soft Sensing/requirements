@@ -1,0 +1,15 @@
+# Optional pip requirements for the GUI app
+# Prefer using the Conda environment file at: Python_Environment/AI_BOD_Softsenor_PyEnv.yaml
+
+numpy
+pandas
+matplotlib
+joblib
+scikit-learn
+
+# Choose ONE of the following, depending on your model file type and local setup:
+# If loading .keras or .h5 via TensorFlow:
+tensorflow>=2.15
+
+# OR if using standalone Keras 3 (without full TensorFlow install):
+# keras>=3.0
