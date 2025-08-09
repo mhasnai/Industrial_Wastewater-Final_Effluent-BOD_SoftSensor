@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset or tool, please cite the following paper:"
-title: "Soft Sensing of Biological Oxygen Demand in Industrial Wastewater Using Machine Learning Models"
+title: "Industrial Wastewater Final Effluent BOD Soft Sensor - Dynamic Simulation GitHub Repository"
 authors:
   - family-names: "Hassnain"
     given-names: "Muhammad"
